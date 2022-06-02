@@ -3,15 +3,8 @@
 A new Flutter project.
 
 <p align="center">
-  <img src="your_relative_path_here" width="350" title="hover text">
   <img src="https://raw.githubusercontent.com/ramms44/flutter-test-app/master/screenshots/1.png" width="350" alt="accessibility text">
-</p>
-<p align="center">
-  <img src="your_relative_path_here" width="350" title="hover text">
   <img src="https://raw.githubusercontent.com/ramms44/flutter-test-app/master/screenshots/2.png" width="350" alt="accessibility text">
-</p>
-<p align="center">
-  <img src="your_relative_path_here" width="350" title="hover text">
   <img src="https://raw.githubusercontent.com/ramms44/flutter-test-app/master/screenshots/3.png" width="350" alt="accessibility text">
 </p>
 
