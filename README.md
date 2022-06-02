@@ -1,11 +1,13 @@
 # flutter_test_app
 
-![alt text](http://url/to/img.png)
-![alt text](http://url/to/img.png)
-![alt text](http://url/to/img.png)
-![alt text](http://url/to/img.png)
-
 A new Flutter project.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ramms44/flutter-test-app/master/screenshots/1.png" width="250" alt="accessibility text">
+  <img src="https://raw.githubusercontent.com/ramms44/flutter-test-app/master/screenshots/2.png" width="250" alt="accessibility text">
+  <img src="https://raw.githubusercontent.com/ramms44/flutter-test-app/master/screenshots/3.png" width="250" alt="accessibility text">
+</p>
+
 
 ## Getting Started
 
