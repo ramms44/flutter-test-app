@@ -1,9 +1,8 @@
 # flutter_test_app
 
-![alt text](http://url/to/img.png)
-![alt text](http://url/to/img.png)
-![alt text](http://url/to/img.png)
-![alt text](http://url/to/img.png)
+![alt text]([http://url/to/img.png](https://github.com/ramms44/flutter-test-app/blob/master/screenshots/1.png?raw=true))
+![alt text]([http://url/to/img.png](https://github.com/ramms44/flutter-test-app/blob/master/screenshots/2.png?raw=true))
+![alt text]([http://url/to/img.png](https://github.com/ramms44/flutter-test-app/blob/master/screenshots/3.png?raw=true))
 
 A new Flutter project.
 
