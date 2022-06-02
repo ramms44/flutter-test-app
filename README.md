@@ -1,10 +1,11 @@
 # flutter_test_app
 
+A new Flutter project.
+
 ![alt text](https://raw.githubusercontent.com/ramms44/flutter-test-app/master/screenshots/1.png)
 ![alt text](https://raw.githubusercontent.com/ramms44/flutter-test-app/master/screenshots/2.png)
 ![alt text](https://raw.githubusercontent.com/ramms44/flutter-test-app/master/screenshots/3.png)
 
-A new Flutter project.
 
 ## Getting Started
 
